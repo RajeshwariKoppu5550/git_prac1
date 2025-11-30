@@ -1,4 +1,8 @@
 iam main data_1
 iam data from patch_1
+<<<<<<< HEAD
 iam data from patch_3
 data from vs code
+=======
+iam data from patch_3_0
+>>>>>>> a2d35cb9b85373e5da0bb62c9af139a8464b1bbb
